@@ -4,7 +4,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SergioZCarvalho&bg_color=0d1117&color=c9d1d9&line=006d32&point=33b74a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
